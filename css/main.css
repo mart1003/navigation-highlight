@@ -10,10 +10,8 @@ body {
 header {
   background-color: #ffe500;
   text-align: center;
-}
-
-nav {
-  margin-bottom: 0.3;
+  padding: 0 0 0.4em;
+  margin: 0;
 }
 
 ul {
@@ -45,4 +43,22 @@ a {
 
  .current {
   background-color: #b20953;
+}
+
+h2 {
+  font-family: "Sigmar One", cursive;
+  color: #b20953;
+  font-size: 1.875rem;
+  padding: 0 10px;
+}
+
+p {
+  font-family: "Georgia", serif;
+  padding: 0 10px;
+}
+
+footer {
+  background-color: #ffe500;
+  text-align: center;
+  padding: 10px;
 }
