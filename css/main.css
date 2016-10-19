@@ -1,0 +1,48 @@
+html {
+  line-height: 1.5;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #ffe500;
+  text-align: center;
+}
+
+nav {
+  margin-bottom: 0.3;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: "Sigmar One", cursive;
+  color: #b20953;
+  font-size: 3rem;
+  margin: 0 0 0 0.4em;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  display: inline-block;
+  background-color: #b2a212;
+  border-radius: 4px;
+  padding: 0.2em 0.5em 0.3em;
+  font-size: 1.125rem;
+  text-decoration: none;
+  color: #fff;
+  font-family: "Georgia", serif;
+}
+
+ .current {
+  background-color: #b20953;
+}
