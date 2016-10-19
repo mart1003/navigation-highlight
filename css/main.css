@@ -31,7 +31,7 @@ h1 {
   font-family: "Sigmar One", cursive;
   color: #b20953;
   font-size: 3rem;
-  margin: 0 0 0.2em;
+  margin: 0 0 .2em;
 }
 
 li {
@@ -49,7 +49,7 @@ a {
   font-family: Georgia, serif;
 }
 
- .current {
+nav a.current {
   background-color: #b20953;
 }
 
